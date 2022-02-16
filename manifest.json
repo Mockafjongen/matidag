@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Visar en bild på dagens mat på Solbergaskolan.",
+    "description": "Bild på dagens skolmat på Solbergaskolan.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
