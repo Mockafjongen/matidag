@@ -47568,7 +47568,7 @@ oz(){var s=0,r=A.a3(t.z),q=this,p,o,n,m
 var $async$oz=A.a4(function(a,b){if(a===1)return A.a0(b,r)
 while(true)switch(s){case 0:n=t.N
 s=2
-return A.a6(new A.IW(A.az(t.Ff)).nq("GET",A.ti("https://wmi7a4eirf.execute-api.eu-north-1.amazonaws.com/mat"),A.aO(["Access-Control-Allow-Origin","*"],n,n)),$async$oz)
+return A.a6(new A.IW(A.az(t.Ff)).nq("GET",A.ti("https://wmi7a4eirf.execute-api.eu-north-1.amazonaws.com/mat"),A.aO(["Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET","Access-Control-Allow-Headers","Origin, X-Requested-With, Content-Type, Accept"],n,n)),$async$oz)
 case 2:m=b
 n=m.e
 p=A.a7Q(A.a6U(n).c.a.i(0,"charset"))
