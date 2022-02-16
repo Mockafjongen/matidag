@@ -47494,13 +47494,13 @@ A.E5.prototype={
 ox(){var s=0,r=A.a3(t.z),q=this,p,o
 var $async$ox=A.a4(function(a,b){if(a===1)return A.a0(b,r)
 while(true)switch(s){case 0:o=A.th("https://wmi7a4eirf.execute-api.eu-north-1.amazonaws.com/mat")
-A.li(o)
+A.li("url: "+o.h(0))
 s=2
 return A.a6(new A.IW(A.az(t.Ff)).nn("GET",o,null),$async$ox)
 case 2:p=b
-A.li(A.a7I(A.a6M(p.e).c.a.i(0,"charset")).bP(0,p.w))
+A.li("response body: "+A.a7I(A.a6M(p.e).c.a.i(0,"charset")).bP(0,p.w))
 q.aM(new A.WQ(q,p))
-A.li(q.d)
+A.li("output: "+q.d)
 return A.a1(null,r)}})
 return A.a2($async$ox,r)},
 Z(a,b){var s=null
