@@ -1,11 +1,11 @@
 {
-    "name": "matidag",
-    "short_name": "matidag",
+    "name": "Mat Idag",
+    "short_name": "Mat Idag",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Visar en bild på dagens mat på Solbergaskolan.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
