@@ -1,11 +1,11 @@
 {
-    "name": "Mat Idag",
-    "short_name": "Mat Idag",
+    "name": "Veckans Mat",
+    "short_name": "Veckans Mat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Bild på dagens skolmat på Solbergaskolan.",
+    "description": "Veckans skolmat på Solbergaskolan",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
